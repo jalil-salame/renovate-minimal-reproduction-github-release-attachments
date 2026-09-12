@@ -25,7 +25,7 @@ newVersion = 0.18.2
 ## Update String
 
 ```sh
-VERSION=cargo-deny@0ea3ced1541ae7a06487dbe723a95d809dbe964891fb5ec704227bd8e7fc33e0 # 0.18.1
+VERSION=cargo-deny@8ac46937040e08ea06fe0f87340c495b79c913cc86a36c065d7b9a8b352c14f3 # 0.20.2
 ```
 
 ## Link to the Renovate issue or Discussion
